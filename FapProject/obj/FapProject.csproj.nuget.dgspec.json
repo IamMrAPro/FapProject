@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SubjectSpring2022\\Prn211\\Core\\FapProject\\FapProject.csproj": {}
+    "D:\\FapProject\\FapProject\\FapProject.csproj": {}
   },
   "projects": {
-    "D:\\SubjectSpring2022\\Prn211\\Core\\FapProject\\FapProject.csproj": {
+    "D:\\FapProject\\FapProject\\FapProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SubjectSpring2022\\Prn211\\Core\\FapProject\\FapProject.csproj",
+        "projectUniqueName": "D:\\FapProject\\FapProject\\FapProject.csproj",
         "projectName": "FapProject",
-        "projectPath": "D:\\SubjectSpring2022\\Prn211\\Core\\FapProject\\FapProject.csproj",
+        "projectPath": "D:\\FapProject\\FapProject\\FapProject.csproj",
         "packagesPath": "C:\\Users\\anhha\\.nuget\\packages\\",
-        "outputPath": "D:\\SubjectSpring2022\\Prn211\\Core\\FapProject\\obj\\",
+        "outputPath": "D:\\FapProject\\FapProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

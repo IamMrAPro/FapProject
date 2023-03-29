@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ar9qaqMuVOGdf0nnPcBuXyJ7I3s+exgb3yvi3FJn8VRkeZjfGi6uRDKKGpbkZ4dPwgz5nWf6+bCY16Gi4cUKqQ==",
+  "dgSpecHash": "i8T7XyepA4OLxuVSPzVo8BhGQLhJ5kfcWy8DLBQyRZiGf596ywi3vFKEnFiuBnALbc5CH2QP2Px70UYdgvl0Iw==",
   "success": true,
-  "projectFilePath": "D:\\SubjectSpring2022\\Prn211\\Core\\FapProject\\FapProject.csproj",
+  "projectFilePath": "D:\\FapProject\\FapProject\\FapProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anhha\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\anhha\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
