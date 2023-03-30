@@ -5,7 +5,7 @@ namespace FapProject.Models;
 
 public partial class GradeReport
 {
-    public int? GradeReportId { get; set; }
+    public int GradeReportId { get; set; }
 
     public int? GradeId { get; set; }
 
@@ -14,4 +14,6 @@ public partial class GradeReport
     public string? Comment { get; set; }
 
     public string? Status { get; set; }
+
+    public virtual Grade? Grade { get; set; }
 }

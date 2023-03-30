@@ -5,7 +5,7 @@ namespace FapProject.Models;
 
 public partial class Administor
 {
-    public int? AdministorId { get; set; }
+    public int AdministorId { get; set; }
 
     public string? AdministorName { get; set; }
 

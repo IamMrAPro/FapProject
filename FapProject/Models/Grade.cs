@@ -5,7 +5,7 @@ namespace FapProject.Models;
 
 public partial class Grade
 {
-    public int? GradeId { get; set; }
+    public int GradeId { get; set; }
 
     public double? GradeValue { get; set; }
 
@@ -20,4 +20,14 @@ public partial class Grade
     public string? SubjectCode { get; set; }
 
     public int? GradeItemId { get; set; }
+
+    public virtual GradeItem? GradeItem { get; set; }
+
+    public virtual ICollection<GradeReport> GradeReports { get; } = new List<GradeReport>();
+
+    public virtual Student? Student { get; set; }
+
+    public virtual Subject? SubjectCodeNavigation { get; set; }
+
+    public virtual Teacher? Teacher { get; set; }
 }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FapProject\\FapProject\\FapProject.csproj": {}
+    "E:\\Team_8_Fap\\Clone_Github\\FapProject\\FapProject\\FapProject.csproj": {}
   },
   "projects": {
-    "D:\\FapProject\\FapProject\\FapProject.csproj": {
+    "E:\\Team_8_Fap\\Clone_Github\\FapProject\\FapProject\\FapProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FapProject\\FapProject\\FapProject.csproj",
+        "projectUniqueName": "E:\\Team_8_Fap\\Clone_Github\\FapProject\\FapProject\\FapProject.csproj",
         "projectName": "FapProject",
-        "projectPath": "D:\\FapProject\\FapProject\\FapProject.csproj",
-        "packagesPath": "C:\\Users\\anhha\\.nuget\\packages\\",
-        "outputPath": "D:\\FapProject\\FapProject\\obj\\",
+        "projectPath": "E:\\Team_8_Fap\\Clone_Github\\FapProject\\FapProject\\FapProject.csproj",
+        "packagesPath": "C:\\Users\\Ao\\.nuget\\packages\\",
+        "outputPath": "E:\\Team_8_Fap\\Clone_Github\\FapProject\\FapProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\anhha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Google": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
